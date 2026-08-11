@@ -6,8 +6,8 @@ This solution is meant to enable what is called as "Intranet Radio" It enables t
 
 Everything you need can be downloaded from this repository however here are the download links just in case:
 
-1- https://icecast.org/download/
-2- https://danielnoethen.de/butt/
+1. https://icecast.org/download/
+2. https://danielnoethen.de/butt/
 
 
 This guide walks you through setting up **Icecast** (the streaming server) and **BUTT** (the tool that sends your microphone/audio to Icecast), step by step. No prior experience needed — just follow along in order. You need admin rights to configure this solution.
